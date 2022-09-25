@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Patrick+Hand&display=swap');
+* {
+    font-family: 'Libre Baskerville', serif;
+    font-size: large;
+    text-align: center;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
