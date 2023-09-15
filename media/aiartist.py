@@ -7,6 +7,7 @@ from colorthief import ColorThief
 import math
 import sys
 
+#AI Artist Source Code
 
 
 #gets the height of the image in the img_path
